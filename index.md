@@ -408,7 +408,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need a [GitHub]("https://github.com/") account.
+  you will need a <a href= "https://github.com/">GitHub</a> account.
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
